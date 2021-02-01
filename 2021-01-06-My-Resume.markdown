@@ -1,0 +1,57 @@
+---
+layout: post
+title:  "My Resume"
+date:   2021-01-06 23:04:39 -0500
+categories: Jekyll update
+---
+**Skills**
+
+Network Configuration  
+Technology Planning  
+Technical Guidance  
+Technical Analysis  
+
+**User training**  
+Helpdesk support  
+Strategic Planning
+
+**Work History**
+
+*March 2020 to Current*  
+Modis, Contract with Simon Business School  
+Rochester, NY  
+Technical Consultant   
+
+Authored best practices documentation for use in existing personnel training and new personnel onboarding processes.  
+Presented business leaders with cost-benefit and return-on-investment estimations to drive project planning and execution.  
+Analyzed client business processes to propose optimal software applications for unique requirements.  
+Proctored both online and in-person technical training courses on zoom, supporting client scales ranging from individuals to groups of 60.  
+
+*March 2016 to July 2019*  
+Frontier Communications  
+Rochester, NY  
+Universal Technician/ Premium Technical Support    
+
+Troubleshooting both residential & business FIOS, DSL, Frontier Secure, Premium Tech Support, & Vantage internet, TV, and voice customers  
+Trained in Customer Service for establishing new accounts, disconnects, move orders, & address changes  
+Assist customers via remote support with varies tasks related to internet, hardware, and software issues  
+
+*June 2013 to February 2016*  
+BJ's Wholesale Club Inc.  
+Rochester, NY  
+Asset Protection Specialist    
+
+Reviewed CCTV and audited EAS and exception reports to identify dishonest activity, theft and fraud  
+Leveraged surveillance and intelligence-led tactics to foster safety and security while minimizing company loss  
+Wrote reports for internal and external crime, burglary or theft  
+
+**Education**
+
+*June 2009 Gates-Chili High School*   
+Rochester, NY  
+High School Diploma 
+
+
+Check out my [Linked In][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/joshua-henry-b44979203/
